@@ -8,3 +8,5 @@
 </h4><h3>Scratch Project Link</h3>
 <h4> Immerse yourself in the Virtual Aquarium by visiting the project on Scratch: <a href ="https://scratch.mit.edu/projects/972314402)https://scratch.mit.edu/projects/972314402">View Virtual Aquarium </a>    </h4>
 <h3>Preview</h3>
+![WhatsApp Image 2024-03-01 at 8 37 15 PM (2)](https://github.com/sinonagar123/scratch_project/assets/102567147/f7a76b14-a47c-4d61-a6e4-2970c716c162)
+![WhatsApp Image 2024-03-01 at 8 37 15 PM](https://github.com/sinonagar123/scratch_project/assets/102567147/68de1206-15cd-4c8c-ba15-e7395e7510fd)
