@@ -4,4 +4,5 @@
 <h2 align="center">Down here you will find all the live previews.</h2>
 <h3>1. Virtual Aquarium</h3>
 <h4>  Description:  The "Virtual Aquarium" is an interactive Scratch project designed to simulate the serene experience of owning an aquarium, but without the need for real-world maintenance.</h4>
-<h4> Link: <a href ="https://scratch.mit.edu/projects/972314402)https://scratch.mit.edu/projects/972314402">View Virtual Aquarium on Scratch</a></h4>
+<h4> Live View on Scratch: <a href ="https://scratch.mit.edu/projects/972314402)https://scratch.mit.edu/projects/972314402">View Virtual Aquarium </a>    </h4>
+<h4>Githuh Link: <a href ="https://github.com/sinonagar123/scratch_project/tree/main/Virtual_Aquarium)https://github.com/sinonagar123/scratch_project/tree/main/Virtual_Aquarium">View Virtual Aquarium on Github</a></h4>
